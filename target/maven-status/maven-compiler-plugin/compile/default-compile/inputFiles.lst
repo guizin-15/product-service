@@ -1,8 +1,8 @@
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/product-service/src/main/java/store/product/Product.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductApplication.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductModel.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductParser.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductRepository.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductResource.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductService.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/product-service/src/main/java/store/product/StoreExceptionHandler.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/product-service/src/main/java/store/product/Product.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductApplication.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductModel.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductParser.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductRepository.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductResource.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/product-service/src/main/java/store/product/ProductService.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/product-service/src/main/java/store/product/StoreExceptionHandler.java
